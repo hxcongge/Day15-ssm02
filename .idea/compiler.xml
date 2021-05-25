@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Day15-ssm" />
+        <module name="day15-ssm" />
       </profile>
     </annotationProcessing>
   </component>
